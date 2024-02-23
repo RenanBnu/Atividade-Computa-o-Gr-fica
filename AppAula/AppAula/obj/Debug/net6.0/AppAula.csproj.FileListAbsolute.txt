@@ -1,0 +1,14 @@
+C:\Users\Dev\source\repos\AppAula\AppAula\bin\Debug\net6.0\AppAula.exe
+C:\Users\Dev\source\repos\AppAula\AppAula\bin\Debug\net6.0\AppAula.deps.json
+C:\Users\Dev\source\repos\AppAula\AppAula\bin\Debug\net6.0\AppAula.runtimeconfig.json
+C:\Users\Dev\source\repos\AppAula\AppAula\bin\Debug\net6.0\AppAula.dll
+C:\Users\Dev\source\repos\AppAula\AppAula\bin\Debug\net6.0\AppAula.pdb
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.AssemblyInfo.cs
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.dll
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\refint\AppAula.dll
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.pdb
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\AppAula.genruntimeconfig.cache
+C:\Users\Dev\source\repos\AppAula\AppAula\obj\Debug\net6.0\ref\AppAula.dll
